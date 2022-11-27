@@ -1,0 +1,5 @@
+train: ../yolo_data/train
+val: ../yolo_data/val
+
+no: 2
+names: ['cat','dog']
